@@ -1,5 +1,10 @@
 # Readme
 
+## 0. Software requirements
+
+To run this game you must have either "Java SE Development Kit 10.0.2" or "Java SE Runtime Environment 10.0.2" installed.
+https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase10-4425482.html
+
 ## 1. Hvordan spillet fungerer
 
 Find og dræb den sidste boss for at gennemføre spillet.
