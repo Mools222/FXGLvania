@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/Mools222/FXGLvania/master/FXGLvania.p
+
 # Readme
 
 ## 0. Software requirements
