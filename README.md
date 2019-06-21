@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/Mools222/FXGLvania/master/FXGLvania.p
+![Screenshot](https://raw.githubusercontent.com/Mools222/FXGLvania/master/FXGLvania.png)
 
 # Readme
 
