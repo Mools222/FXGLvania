@@ -1,6 +1,6 @@
 # YouTube Demo
 
-[![Youtube Thumbnail](http://img.youtube.com/vi/cOVfKBl7TrY/0.jpg)](http://www.youtube.com/watch?v=cOVfKBl7TrY)
+[![Youtube Thumbnail](http://img.youtube.com/vi/eKsP9UWIwrY/0.jpg)](http://www.youtube.com/watch?v=eKsP9UWIwrY)
 
 # Screenshot
 
