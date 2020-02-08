@@ -4,7 +4,7 @@
 
 # Warning
 
-In order to experience this game at its intended speed, it must be run on a 144Hz monitor. If run on a 60Hz monitor, it will run at less than half of the intended speed. This is due to the fact that FXGL uses the AnimationTimer class from JavaFX.
+In order to experience this game at its intended speed, it must be run on a **144Hz** monitor. If run on a 60Hz monitor, it will run at less than half of the intended speed. This is due to the fact that FXGL uses the AnimationTimer class from JavaFX.
 
 # Screenshot
 
